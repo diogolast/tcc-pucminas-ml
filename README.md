@@ -1,1 +1,3 @@
-# tcc-pucminas-ml
+# TCC Pós Graduação de Ciência de Dados e Big Data - PUCMINAS
+
+##### DIAGNÓSTICO DE DOENÇAS CARDIOVASCULARES USANDO MACHINE LEARNING
